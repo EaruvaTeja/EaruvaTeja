@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Earuva teja</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- I’m currently learning Btech-3rd year **Computer science engineering**
+- I’m currently pursuing Btech-3rd year in **Computer science engineering**
 
 - I’m looking to collaborate on **full stack projects**
 
