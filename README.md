@@ -6,7 +6,7 @@
 
 - I’m looking to collaborate on **full stack projects**
 
-- All of my projects are available at [](earuvateja.github.io)
+- All of my projects are available at [earuvateja.github.io](earuvateja.github.io)
 
 - How to reach me **earuvateja@gmail.com**
 
