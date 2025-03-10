@@ -3,15 +3,15 @@
 
 - Hello, I am a student from **Hyderabad, Telangana, India**
 
-- Completed Data Science Course From SimpliLearn platfrom **Data Science certification:https://www.linkedin.com/feed/update/urn:li:activity:7303797244468596736/**
+- Completed Data Science Course From SimpliLearn platfrom **Data Science certification  :[CLICK ME](https://www.linkedin.com/feed/update/urn:li:activity:7303797244468596736/)**
 
 - I’m looking to collaborate on **: Data Science Projects**
 
 - I’m looking for a job in **: Data Science Roles**
 
-- Connect me : [https://github.com/EaruvaTeja](https://github.com/EaruvaTeja)
+- Connect me :[Linkedin](https://www.linkedin.com/in/earuva-teja-5b5146298/)[Github](https://github.com/EaruvaTeja)
 
-- Resume link : [https://earuva-teja-resume.tiiny.site/](https://earuva-teja-resume.tiiny.site/)
+- Resume link : [Resume](https://earuva-teja-resume.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
