@@ -1,80 +1,76 @@
 <h1 align="center">Hi 👋, I'm Earuva Teja</h1>
-<h3 align="center">Data Scientist | Machine Learning Enthusiast | Designer</h3>
+<h3 align="center">Data Scientist | Machine Learning Specialist | Analytics Developer</h3>
 
 <p align="center">
-  Passionate about transforming data into actionable insights and crafting visually appealing designs to communicate complex ideas.
+  Transforming raw data into actionable insights | IBM-Certified Data Scientist | B.Tech CSE '25
 </p>
 
 ---
 
-### About Me
-- I'm a student based in **Hyderabad, Telangana, India**, on track to graduate in 2025 with a degree in Computer Science & Engineering.
-- I have completed a **Data Science Course from SimpliLearn**  
-  **Certification:** [CLICK ME](https://www.linkedin.com/feed/update/urn:li:activity:7303797244468596736/)
-- I’m looking to collaborate on innovative **Data Science Projects** and contribute to impactful solutions.
-- Actively seeking opportunities in **Data Science Roles** to apply my skills in analytics, machine learning, and design.
+### 🔍 About Me
+- 🎓 Final year **Computer Science & Engineering** student at Kakatiya University College of Engineering
+- 📊 **IBM-Certified Data Scientist** with hands-on expertise in predictive modeling and ML deployment
+- 🔭 Currently developing **ML systems** for real-world problem solving
+- 🌱 Mastering **TensorFlow, Scikit-Learn & Computer Vision** techniques
+- 🚀 Seeking full-time roles in **Data Science & Machine Learning**
 
 ---
 
-### Connect with Me
+### 🛠️ Technical Expertise
+**Programming:** 
+![Python](https://img.shields.io/badge/Python-Expert-informational?logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-Intermediate-blue?logo=java)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue?logo=mysql)
+
+**Data Science Stack:**  
+![Pandas](https://img.shields.io/badge/Pandas-Expert-informational?logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-Advanced-blue?logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-Advanced-blue?logo=scikitlearn)
+
+**ML & Deep Learning:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-orange?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-Intermediate-red?logo=keras)
+
+**Visualization:**  
+![Tableau](https://img.shields.io/badge/Tableau-Advanced-blue?logo=tableau)
+![PowerBI](https://img.shields.io/badge/Power_BI-Intermediate-yellow?logo=powerbi)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Advanced-blue?logo=python)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-blue?logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green?logo=mongodb)
+
+---
+
+### 🏆 Notable Projects
+| Project | Tech Stack | Achievement |
+|---------|------------|-------------|
+| **[Blood Group Prediction](https://github.com/EaruvaTeja/)** | TensorFlow, VGG16 CNN, Image Processing | Developed fingerprint-based prediction system |
+| **[Flight Fare Prediction](https://github.com/EaruvaTeja/)** | Python, Pandas, Scikit-Learn | Achieved 0.96 R² score |
+| **[Amazon Sales Analytics](https://github.com/EaruvaTeja/)** | Tableau, SQL, Data Mining | Delivered actionable insights for sales strategy |
+| **[Secure RSA Data Transmission](https://github.com/EaruvaTeja/)** | Python, Cryptography | Implemented end-to-end encryption system |
+
+---
+
+### 📞 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/earuva-teja-5b5146298/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/EaruvaTeja" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="mailto:earuvateja@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg](https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Email" height="30" width="40" />
-  </a>
-</p>
-
-- **Phone:** +91 9100159469  
-- **Resume:** [View Resume](https://earuva-teja-resume.tiiny.site/)
-
----
-
-### Skills & Technologies
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  <a href="https://linkedin.com/in/earuva-teja-5b5146298/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="30">
+  </a> 
+  <a href="mailto:earuvateja@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="30">
+  </a> 
+  <a href="https://earuvateja-resume.tiiny.site">
+    <img src="https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white" height="30">
   </a>
 </p>
 
----
-
-### Designing & Data Visualization
-I believe in the power of design to complement data storytelling. I have hands-on experience with:
-- **Data Visualization Tools:** Matplotlib, Seaborn
-- **Design Tools:** Adobe Photoshop, and a passion for crafting clean, user-friendly designs.
+📍 **Hyderabad, India** 📱 **+91 9100159469**
 
 ---
 
-### GitHub Stats
+### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EaruvaTeja&show_icons=true&theme=radical" alt="Earuva Teja GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EaruvaTeja&show_icons=true&theme=merko" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EaruvaTeja&layout=compact&theme=merko" width="45%">
 </p>
