@@ -2,14 +2,14 @@
 <h3 align="center">Data Scientist | Machine Learning Specialist | Analytics Developer</h3>
 
 <p align="center">
-  Transforming raw data into actionable insights | IBM-Certified Data Scientist | B.Tech CSE '25
+  Transforming raw data into actionable insights | Certified Data Scientist | B.Tech CSE '25
 </p>
 
 ---
 
 ### 🔍 About Me
 - 🎓 Final year **Computer Science & Engineering** student at Kakatiya University College of Engineering
-- 📊 **IBM-Certified Data Scientist** with hands-on expertise in predictive modeling and ML deployment
+- 📊 **Certified Data Scientist** with hands-on expertise in predictive modeling and ML deployment
 - 🔭 Currently developing **ML systems** for real-world problem solving
 - 🌱 Mastering **TensorFlow, Scikit-Learn & Computer Vision** techniques
 - 🚀 Seeking full-time roles in **Data Science & Machine Learning**
