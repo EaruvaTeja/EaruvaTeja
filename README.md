@@ -51,27 +51,36 @@ Computer Science graduate (2025) from Kakatiya University, currently working as 
 
 ---
 
-## ◆ Technical Arsenal
+<h2 align="center">◆ Technical Arsenal</h2>
 
-<div align="center">
+<!-- Row 1: Core & ML -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,js,react,sklearn,tensorflow" />
+</p>
 
-**Languages, Frontend & Backend**
-<br/>
-<img src="./skills-marquee-row1.svg" width="100%" alt="Core stack marquee"/>
+<!-- Row 2: Cloud & Tools -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,github,netlify,vscode,postman,redis" />
+</p>
 
-<br/>
-
-**Data Science, ML & Tooling**
-<br/>
-<img src="./skills-marquee-row2.svg" width="100%" alt="Data & ML stack marquee"/>
-
-</div>
-
-<p align="center"><sub><i>Continuously scrolling icon strips, rendered as self-contained animated SVGs — no third-party API dependency.</i></sub></p>
-
-<br/>
+<!-- Row 3: DataViz + AI/ML + Productivity -->
+<p align="center">
+  <!-- Matplotlib -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55" height="55" alt="Matplotlib" />
+  <!-- Tableau -->
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-tableau-icon-4489897.png" width="55" height="55" alt="Tableau" />
+  <!-- Microsoft Apps -->
+  <img src="https://www.svgrepo.com/show/452062/microsoft.svg" width="55" height="55" alt="Microsoft Apps" />
+  <!-- Claude AI -->
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" width="55" height="55" alt="Claude AI" />
+  <!-- ChatGPT -->
+  <img src="https://static.vecteezy.com/system/resources/previews/021/608/790/large_2x/chatgpt-logo-chat-gpt-icon-on-black-background-free-vector.jpg" width="55" height="55" alt="ChatGPT" />
+  <!-- MCP Server -->
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/mcp.png" width="55" height="55" alt="MCP Server" />
+</p>
 
 ---
+
 
 ## ◆ Featured Projects
 
