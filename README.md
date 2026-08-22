@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=280&section=header&text=Hi%20There,%20I'm%20Earuva%20Teja&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Machine%20Learning%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Turning+raw+data+into+decisions;Building+ML+pipelines+that+scale;Django+%2B+Python+Full-Stack+Developer;AI%2FML+Engineer+Intern+%40+tensorGo;Always+learning.+Always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Python+Full+Stack+Development;Data+Science+%26+Analytics;Machine+Learning;Database+Management" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech_CSE_'25-Kakatiya_University-0d1117?style=for-the-badge&logo=googlescholar&logoColor=58a6ff&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Open_to_Work-Data_Science_%26_ML-0d1117?style=for-the-badge&logo=freelancer&logoColor=25D366&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🕒_IST_(UTC_+5:30)-0d1117?style=for-the-badge&logo=clockify&logoColor=FF9900&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/IST_(UTC_+5:30)-0d1117?style=for-the-badge&logo=clockify&logoColor=FF9900&labelColor=0d1117"/>
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 [![About](https://img.shields.io/badge/About-0d1117?style=for-the-badge&logo=aboutdotme&logoColor=58a6ff)](#-about-me)
 [![Experience](https://img.shields.io/badge/Experience-0d1117?style=for-the-badge&logo=briefcase&logoColor=58a6ff)](#-professional-experience)
-[![Skills](https://img.shields.io/badge/Skills-0d1117?style=for-the-badge&logo=codesandbox&logoColor=58a6ff)](#️-technical-arsenal)
+[![Skills](https://img.shields.io/badge/Skills-0d1117?style=for-the-badge&logo=codesandbox&logoColor=58a6ff)](#-technical-arsenal)
 [![Projects](https://img.shields.io/badge/Projects-0d1117?style=for-the-badge&logo=rocket&logoColor=58a6ff)](#-featured-projects)
 [![Metrics](https://img.shields.io/badge/Metrics-0d1117?style=for-the-badge&logo=googleanalytics&logoColor=58a6ff)](#-analytics--activity)
 [![Connect](https://img.shields.io/badge/Connect-0d1117?style=for-the-badge&logo=linktree&logoColor=58a6ff)](#-lets-connect--support)
@@ -32,66 +32,62 @@
 
 ---
 
-## 🚀 About Me
+## ◆ About Me
 
-🎓 Computer Science graduate (2025) from Kakatiya University, currently working as an **AI/ML Engineer Intern @ tensorGo** and certified as a **Data Scientist** through an IBM-partnered Simplilearn program. I build scalable ML pipelines, full-stack Django applications, and Tableau dashboards that turn raw data into decisions — and I'm always exploring PySpark, Databricks, and cloud-native ML deployment.
+Computer Science graduate (2025) from Kakatiya University, currently working as an **AI/ML Engineer Intern @ tensorGo** and certified as a **Data Scientist** through an IBM-partnered Simplilearn program. I build scalable ML pipelines, full-stack Django applications, and Tableau dashboards that turn raw data into decisions — and I'm always exploring PySpark, Databricks, and cloud-native ML deployment.
 
-📍 Hyderabad, India&nbsp;&nbsp;·&nbsp;&nbsp;📫 [earuvateja@gmail.com](mailto:earuvateja@gmail.com)&nbsp;&nbsp;·&nbsp;&nbsp;💬 Ask me about Python, Scikit-Learn, Django, or data pipelines
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote"/>
-</div>
+**Location:** Hyderabad, India &nbsp;|&nbsp; **Email:** [earuvateja@gmail.com](mailto:earuvateja@gmail.com) &nbsp;|&nbsp; **Ask me about:** Python, Scikit-Learn, Django, or data pipelines
 
 <br/>
 
 ---
 
-## 💼 Professional Experience
+## ◆ Professional Experience
 
-🤖 **AI/ML Engineer Intern @ tensorGo** *(Mar 2026 – Jul 2026)* — cleaning & modeling data with Python, Pandas, and Spark SQL, and shipping Tableau dashboards for KPI reporting.
-📈 **Data Scientist Trainee @ Simplilearn** *(May 2025 – Feb 2026, IBM-partnered)* — certified across ML, Tableau, and MySQL through hands-on, industry-aligned capstone projects.
+- **AI/ML Engineer Intern @ tensorGo** *(Mar 2026 – Jul 2026)* — cleaning & modeling data with Python, Pandas, and Spark SQL, and shipping Tableau dashboards for KPI reporting.
+- **Data Scientist Trainee @ Simplilearn** *(May 2025 – Feb 2026, IBM-partnered)* — certified across ML, Tableau, and MySQL through hands-on, industry-aligned capstone projects.
 
 <br/>
 
 ---
 
-## 🛠️ Technical Arsenal
+## ◆ Technical Arsenal
 
 <div align="center">
 
-**Languages, Backend & Data**
+**Languages, Frontend & Backend**
 <br/>
 <img src="./skills-marquee-row1.svg" width="100%" alt="Core stack marquee"/>
 
 <br/>
 
-**Data Science, ML & Tools**
+**Data Science, ML & Tooling**
 <br/>
 <img src="./skills-marquee-row2.svg" width="100%" alt="Data & ML stack marquee"/>
 
 </div>
 
-<sub align="center">🔄 Scrolling icon strips — rendered as self-contained animated SVGs, so nothing here depends on a third-party API staying online.</sub>
+<p align="center"><sub><i>Continuously scrolling icon strips, rendered as self-contained animated SVGs — no third-party API dependency.</i></sub></p>
 
 <br/>
 
 ---
 
-## 🏗️ Featured Projects
+## ◆ Featured Projects
 
-### 🌐 Full Stack Django Web Application
+### Full Stack Django Web Application
 *Mar 2026 – Jul 2026* — Engineered a Django + MySQL backend for product catalog, auth, career applications, and payments via secure REST APIs. Frontend on **Netlify**, backend on **Render**.
 `Django` `MySQL` `REST APIs` `HTML/CSS/JS` `Netlify` `Render`
 
-### ⚙️ Django REST API & Admin Dashboard
+### Django REST API & Admin Dashboard
 *Mar 2026 – Jul 2026* — Built a DRF app with JWT auth and role-based access to manage users, products, and orders, backed by GitHub Actions CI/CD and Postman/pytest testing.
 `Django REST Framework` `MySQL` `JWT` `GitHub Actions` `Postman` `pytest`
 
-### 📈 Flight Fare Prediction & Delay Analysis
+### Flight Fare Prediction & Delay Analysis
 *Oct 2025 – Feb 2025* — End-to-end ML workflow for fare prediction — 18% improvement over baseline — extended to delay prediction using XGBoost, selected on precision/recall/F1.
 `Python` `Pandas` `Scikit-Learn` `Spark SQL` `Tableau`
 
-### 🧠 Customer Churn Prediction & Retention Analytics
+### Customer Churn Prediction & Retention Analytics
 *Jul 2025 – Sep 2025* — Built a churn-prediction pipeline comparing Logistic Regression, Random Forest, Gradient Boosting, and XGBoost, selected on ROC-AUC, with visual retention-risk reporting.
 `Python` `Pandas` `Scikit-Learn` `XGBoost` `Matplotlib` `Seaborn`
 
@@ -99,27 +95,15 @@
 
 ---
 
-## 📊 Analytics & Activity
+## ◆ Analytics & Activity
 
-<sub>⚙️ All widgets below are generated by the <code>metrics.yml</code> Action into this repo — self-hosted, so they don't depend on any external service staying up.</sub>
+<p align="center"><sub><i>All widgets below are generated by the <code>metrics.yml</code> Action into this repo — self-hosted, so they don't depend on any external service staying up.</i></sub></p>
 
 <div align="center">
 
-**Core Stats, Top Languages & Lines of Code**
+**Core Stats & Lines of Code**
 <br/>
 <img src="./metrics.classic.svg" width="100%" alt="Classic metrics"/>
-
-<br/>
-
-**Full-Year Isometric Contribution Calendar**
-<br/>
-<img src="./metrics.isocalendar.svg" width="100%" alt="Isocalendar"/>
-
-<br/>
-
-**Achievements**
-<br/>
-<img src="./metrics.achievements.svg" width="100%" alt="Achievements"/>
 
 <br/>
 
@@ -140,11 +124,11 @@
 
 ---
 
-## 🤝 Let's Connect & Support
+## ◆ Let's Connect & Support
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/earuvateja" target="_blank">
-    <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
   <a href="https://linkedin.com/in/earuva-teja-5b5146298/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -158,13 +142,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Hyderabad,_India-FFFFFF?style=flat-square&logo=googlemaps&logoColor=red&labelColor=0d1117&color=0d1117"/>
-  <img src="https://img.shields.io/badge/📱_+91_9100159469-FFFFFF?style=flat-square&logo=whatsapp&logoColor=25D366&labelColor=0d1117&color=0d1117"/>
+  <img src="https://img.shields.io/badge/Hyderabad,_India-FFFFFF?style=flat-square&logo=googlemaps&logoColor=red&labelColor=0d1117&color=0d1117"/>
+  <img src="https://img.shields.io/badge/+91_9100159469-FFFFFF?style=flat-square&logo=whatsapp&logoColor=25D366&labelColor=0d1117&color=0d1117"/>
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made_with-❤️-0d1117?style=for-the-badge&logo=heart&logoColor=red&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Made_with-Care-0d1117?style=for-the-badge&logo=heart&logoColor=red&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/By-Earuva_Teja-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,100:0d1117&height=4&section=footer" width="100%"/>
