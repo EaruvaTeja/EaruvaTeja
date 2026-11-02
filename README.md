@@ -122,10 +122,6 @@ Computer Science graduate (2025) from Kakatiya University, currently working as 
 **Contribution Snake**
 <br/><br/>
 <!--START_SECTION:snake-->
-<!--
-  Snake palette is applied in the snk workflow (outputs), not in this README:
-  dist/github-contribution-grid-snake-dark.svg?color_snake=%23ffb54d&color_dots=%233d2d20,%237c4d2a,%23c97a2b,%23f2a93b,%23ffd95a&color_empty=%233d2d20
--->
 <img src="https://raw.githubusercontent.com/EaruvaTeja/EaruvaTeja/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
 <!--END_SECTION:snake-->
 
@@ -165,7 +161,7 @@ Computer Science graduate (2025) from Kakatiya University, currently working as 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&borderColor=red" alt="Developer Quote"/>
+  <img src="./quote.svg" width="80%" alt="Developer Quote"/>
 </div>
 
 <br/>
