@@ -2,19 +2,19 @@ name: Generate Profile Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # refresh twice a day
+    - cron: "30 0 * * 0" # Every Sunday
   push:
     branches:
       - main
-  workflow_dispatch: {}
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  # Core stats + lines of code (top languages removed per request)
   classic-metrics:
     runs-on: ubuntu-latest
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
