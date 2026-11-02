@@ -1,0 +1,73 @@
+name: Generate Quote Card
+
+on:
+  schedule:
+    - cron: "0 1 * * *"  # Daily
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/quote.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate quote.svg (black background, white text, teal author, no border)
+        run: |
+          python3 - <<'PY'
+          import random, textwrap
+          from xml.sax.saxutils import escape
+          
+          QUOTES = [
+              ("Talk is cheap. Show me the code.", "Linus Torvalds"),
+              ("Make it work, make it right, make it fast.", "Kent Beck"),
+              ("The best way to predict the future is to invent it.", "Alan Kay"),
+              ("Programs must be written for people to read.", "Harold Abelson"),
+              ("First, solve the problem. Then, write the code.", "John Johnson"),
+              ("Premature optimization is the root of all evil.", "Donald Knuth"),
+              ("Simplicity is the soul of efficiency.", "Austin Freeman"),
+              ("Any sufficiently advanced technology is indistinguishable from magic.", "Arthur C. Clarke"),
+              ("Code is like humor. When you have to explain it, it's bad.", "Cory House"),
+              ("Data is the new oil.", "Clive Humby"),
+          ]
+          
+          TEAL = "#2dd4bf"
+          text, author = random.choice(QUOTES)
+          lines = textwrap.wrap(text, width=58)
+          W = 800
+          line_h = 34
+          top = 62
+          H = top + len(lines) * line_h + 64
+          
+          parts = [
+              f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Developer quote">',
+              f'<rect width="{W}" height="{H}" rx="10" fill="#000000" stroke="none"/>',
+              f'<text x="40" y="{top}" font-family="Georgia, serif" font-size="64" fill="{TEAL}" opacity="0.35">&#8220;</text>',
+          ]
+          y = top + 20
+          for i, ln in enumerate(lines):
+              parts.append(f'<text x="{W//2}" y="{y + i*line_h}" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff">{escape(ln)}</text>')
+          ay = y + len(lines) * line_h + 14
+          parts.append(f'<text x="{W//2}" y="{ay}" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="{TEAL}">&#8212; {escape(author)}</text>')
+          parts.append('</svg>')
+          open("quote.svg", "w", encoding="utf-8").write("\n".join(parts))
+          PY
+
+      - name: Commit quote card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add quote.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update quote card"
+            git pull --rebase
+            git push
+          fi
